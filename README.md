@@ -1,5 +1,5 @@
 # 💫 About Me:
-class var {<br>  public static void Main (string[] args) {<br>    Console.WriteLine("Discord: var#0003");<br>    Console.WriteLine("Projects: discord.gg/escrows");<br>  }<br>}
+print("discord:var#003)<br>print("server:.gg/escrows") }<br>}
 
 
 ## 🌐 Socials:
