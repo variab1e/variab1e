@@ -1,5 +1,5 @@
 # 💫 About Me:
-print("discord:var#003)<br>print("server:.gg/escrows") }<br>}
+print("discord:var#003)<br>print("server:.gg/escrows")<br>
 
 
 ## 🌐 Socials:
