@@ -1,5 +1,5 @@
 # 💫 About Me:
-print("discord:var#003)<br>print("server:.gg/escrows")<br>
+<br>discord_username = "var#0003"<br>project_link = "discord.gg/escrows"<br>programming_languages = ["Python", "C#"]<br>learning = ["C#,JS"]<br><br>print("Discord: " + discord_username)<br>print("Projects: " + project_link)<br>print("Programming languages I know: " + ", ".join(programming_languages))<br>print("Currently learning: " + ", ".join(learning))<br>print("Last updated: " + str(datetime.now()))
 
 
 ## 🌐 Socials:
